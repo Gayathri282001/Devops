@@ -17,8 +17,7 @@ Earlier Backend technologies had servers like tomcat, Jboss, IIS, etc.
 Now all backend technologies are coming up with in built servers.
 Usually API tier should not opened through internet, it should be only accessible through web tier.
 
-**
-DB TIER:**
+**DB TIER:**
 Storage of the applications will be here like user data, products, orders data, etc.
 We can use RDBMS like MySQL, MSSQL, Postgress, etc for row and column based data.
 We can use NoSQL databases like MongoDB for storing the product information.
