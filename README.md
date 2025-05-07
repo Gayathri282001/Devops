@@ -1,5 +1,9 @@
 
 Below is the communication between components and dependency. This dependency comes from Development team. Architects decide that, DevOps has no scope in this.
+
+
+
+
 ![roboshop](https://github.com/user-attachments/assets/44d0925d-1103-4739-95cf-a28cf33e3140)
 
 WEB TIER:
